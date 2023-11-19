@@ -13,7 +13,8 @@ Created a Entity Relationship Diagram of the tables using QuickDBD: https://app.
 - Imported the CSV data into each table
 
     
-File: EmployeeSQL database and data folder with the following CSVs
+File: EmployeeSQL database and data folder with the following CSVs:
+
     - departments.csv
     - t_emp.csv
     - dept_manager.csv
