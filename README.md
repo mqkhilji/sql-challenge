@@ -4,8 +4,8 @@
 ## Data Modeling
 Created a Entity Relationship Diagram of the tables using QuickDBD: https://app.quickdatabasediagrams.com/
 
-**File: QuickDBD-export.png and QuickDBD-export.sql
-**
+    File: QuickDBD-export.png and QuickDBD-export.sql
+
 
 ## Data Engineering
 - Created the Database in PostGreSQL
@@ -13,7 +13,7 @@ Created a Entity Relationship Diagram of the tables using QuickDBD: https://app.
 - Imported the CSV data into each table
 
     
-** File: EmployeeSQL database and data folder with the following CSVs **
+File: EmployeeSQL database and data folder with the following CSVs
     - departments.csv
     - t_emp.csv
     - dept_manager.csv
@@ -41,5 +41,4 @@ Performed the following analysis
   8. Frequency of Employee Last Names: This query provides a frequency count of all employee last names in descending order, indicating how many employees share each last name.
 
 
-**File: EmployeeSQL.sql for all the queries and analysis
-**
+    File: EmployeeSQL.sql for all the queries and analysis
