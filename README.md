@@ -4,18 +4,23 @@
 ## Data Modeling
 Created a Entity Relationship Diagram of the tables using QuickDBD: https://app.quickdatabasediagrams.com/#/
 
+    ### File: QuickDBD-export.png and QuickDBD-export.sql
 
 
 ## Data Engineering
 - Created the Database in PostGreSQL
-- Created tables for each CSV file in the
+- Created tables for each CSV file in the EmployeeSQL database
+- Imported the CSV data into each table
+
+    
+    ### File: EmployeeSQL database and data folder with the following CSVx
     - departments.csv
     - t_emp.csv
     - dept_manager.csv
     - employees.csv
     - salaries.csv
     - titles.csv
--    Imported the csv data into each table
+
 
 ## Data Analysis
 Performed the following analysis
@@ -34,3 +39,6 @@ Performed the following analysis
   7. Employees in Sales and Development Departments: This query lists all employees in both the Sales and Development departments, including their employee number, last name, first name, and department name.
   
   8. Frequency of Employee Last Names: This query provides a frequency count of all employee last names in descending order, indicating how many employees share each last name.
+
+
+    ### File: EmployeeSQL.sql for all the queries and analysis
